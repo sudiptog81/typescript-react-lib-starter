@@ -92,7 +92,7 @@
     "pretty-quick": "1.11.1",
     "react-test-renderer": "16.13.1",
     "source-map-loader": "0.2.4",
-    "ts-node": "8.10.2",
+    "ts-node": "9.0.0",
     "typescript": "3.9.7",
     "uglifyjs-webpack-plugin": "2.2.0",
     "webpack": "4.44.2",
